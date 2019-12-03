@@ -3,7 +3,6 @@ from django.conf import settings
 import pendulum
 from secrets import token_urlsafe
 import bcrypt
-# from rest_framework.authtoken.models import Token
 
 
 # Create your models here.
